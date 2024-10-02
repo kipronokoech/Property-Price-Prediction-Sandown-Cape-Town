@@ -1,0 +1,12 @@
+property_details_wc.json
+test*
+.DS_Store
+scrapy.cfg
+.ipynb_checkpoints
+test.csv
+test.ipynb
+test.json
+test.py
+.env/*
+results.csv
+__pycache__
